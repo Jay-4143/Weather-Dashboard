@@ -9,6 +9,9 @@ A simple Vue.js application to search and view weather details, featuring curren
 - **Premium UI**: Glassmorphism design with responsive layout.
 - **Unit Tests**: comprehensive unit and component tests using Vitest.
 
+## SreenShot
+
+![Dashboard Page](https://github.com/Jay-4143/Weather-Dashboard/blob/544daf4e951dc499ff414df464b713d0e9c5094e/assets/Screenshot%20(1).png)
 ## Setup Instructions
 
 1.  **Install Dependencies**:
